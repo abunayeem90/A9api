@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Modern Single-Family Home",
+      "segment_name": "Single-family homes",
+      "description": "Beautiful modern single-family home with spacious interiors and scenic views.",
+      "price": "$500,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "123 Main Street, Anytown, USA",
+      "facilities": ["spacious living room", "swimming pool", "modern kitchen"],
+      "image": "https://i.ibb.co/vXdfhLs/Modern-Single-Family-Home1.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Luxury Apartment",
+      "segment_name": "Apartments",
+      "description": "Luxurious apartment with high-end finishes and amenities, located in a prime urban area.",
+      "price": "$3000/month",
+      "status": "rent",
+      "area": "1500 sq ft",
+      "location": "456 Elm Street, Cityville, USA",
+      "facilities": ["gym", "swimming pool", "24/7 security"],
+      "image": "https://i.ibb.co/n8ddzTH/Luxury-Apartment2.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Cozy Townhouse",
+      "segment_name": "Townhouses",
+      "description": "Charming townhouse with a cozy atmosphere and private backyard.",
+      "price": "$350,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "789 Oak Avenue, Villageville, USA",
+      "facilities": ["garage", "backyard patio", "fireplace"],
+      "image": "https://i.ibb.co/TMvZSxr/Cozy-Townhouse3.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Student Housing Complex",
+      "segment_name": "Student housing",
+      "description": "Modern student housing complex offering convenient amenities and proximity to campus.",
+      "price": "$800/month (per bed)",
+      "status": "rent",
+      "area": "Shared facilities",
+      "location": "101 College Drive, Collegtown, USA",
+      "facilities": ["study lounges", "fitness center", "game room"],
+      "image": "https://i.ibb.co/HDQ1Kg5/Student-Housing-Complex4.jpg"
+    },
+    {
+      "id": 5,
+      "estate_title": "Senior Living Community",
+      "segment_name": "Senior living communities",
+      "description": "Resort-style senior living community with comprehensive care services and activities.",
+      "price": "$4000/month",
+      "status": "rent",
+      "area": "1000 sq ft",
+      "location": "234 Maple Lane, Retireeville, USA",
+      "facilities": ["dining hall", "gardens", "medical center"],
+      "image": "https://i.ibb.co/mBPdkT9/Senior-Living-Community5.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Beachfront Vacation Rental",
+      "segment_name": "Vacation rentals",
+      "description": "Relaxing beachfront vacation rental with stunning ocean views and private access to the beach.",
+      "price": "$200/night",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "567 Beachside Avenue, Seaside Resort, USA",
+      "facilities": ["beach access", "terrace", "barbecue area"],
+      "image": "https://i.ibb.co/YB6WrbC/Beachfront-Vacation-Rental6.webp"
+    },
+    {
+      "id": 7,
+      "estate_title": "City Center Loft",
+      "segment_name": "Apartments",
+      "description": "Chic loft apartment in the heart of the city, offering urban living at its finest.",
+      "price": "$600,000",
+      "status": "sale",
+      "area": "2000 sq ft",
+      "location": "789 Downtown Boulevard, Metropolis, USA",
+      "facilities": ["open floor plan", "city views", "rooftop terrace"],
+      "image": "https://i.ibb.co/4mwT001/City-Center-Loft7.webp"
+    },
+    {
+      "id": 8,
+      "estate_title": "Family-friendly Suburban Home",
+      "segment_name": "Single-family homes",
+      "description": "Spacious suburban home perfect for families, with a large backyard and community amenities.",
+      "price": "$450,000",
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "101 Green Acres, Suburbia, USA",
+      "facilities": ["backyard", "community playground", "community pool"],
+      "image": "https://i.ibb.co/9tg10WD/Family-friendly-Suburban-Home8.jpg"
+    },
+    {
+      "id": 9,
+      "estate_title": "Cozy Mountain Cabin",
+      "segment_name": "Vacation rentals",
+      "description": "Rustic mountain cabin retreat with breathtaking views and access to hiking trails.",
+      "price": "$300/night",
+      "status": "rent",
+      "area": "800 sq ft",
+      "location": "123 Mountain Peak Trail, Summitville, USA",
+      "facilities": ["fireplace", "hot tub", "deck"],
+      "image": "https://i.ibb.co/GRWwYCt/Cozy-Mountain-Cabin9.webp"
+    }
+  ]
